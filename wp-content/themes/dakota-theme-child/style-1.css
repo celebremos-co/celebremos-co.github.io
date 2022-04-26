@@ -1,0 +1,32 @@
+/*
+ Theme Name:   Dakota Theme Child
+ Theme URI:    http://ftransformaespana.es/dakota-theme-child/
+ Description:  Dakota Child Theme
+ Author:       MiloThemes
+ Author URI:   http://example.com
+ Template:     dakota-theme
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, full-width-template, theme-options, threaded-comments, translation-ready
+
+ Text Domain:  dakota-theme-child
+*/
+
+
+@import url("../dakota-theme/style-3.css");
+
+.vc_tta-color-orange.vc_tta-style-flat .vc_tta-tab.vc_active>a {
+	    background-color: #FF9800 !important;}
+
+.menu-oculto {display: none;}
+.menu > li > a {
+    margin-left: 10px;
+}
+
+
+#logo {
+
+	z-index: 9999;
+	position: relative;
+}
