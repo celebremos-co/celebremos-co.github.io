@@ -1,0 +1,14 @@
+#page-content {
+    padding-bottom: 0;
+}
+
+.vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat:focus,
+.vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat:hover,
+.vc_btn3.vc_btn3-color-juicy-pink:focus,
+.vc_btn3.vc_btn3-color-juicy-pink:hover {
+    background-color: #FFC107;
+}
+
+.vc_btn3.vc_btn3-size-md {
+    padding: 10px 14px;
+}

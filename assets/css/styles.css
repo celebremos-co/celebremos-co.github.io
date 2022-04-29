@@ -1,0 +1,379 @@
+a,
+a:hover,
+a:focus,
+.text-default,
+.check-list.default li:before,
+.process-steps .step>i,
+.process-steps.default .step>i,
+.pie-chart>i,
+.pie-chart.default>i,
+.comparison-bars .progress-bar-title-after i,
+.comparison-bars .progress-bar-title-before i,
+.comparison-bars.default .progress-bar-title-after i,
+.comparison-bars.default .progress-bar-title-before i,
+.counter>i,
+.counter.default>i,
+.countdown>div:after,
+.testimonial>h6,
+.widget_categories ul li a:hover,
+.widget_archive ul li a:hover,
+.widget_pages ul li a:hover,
+.widget_meta ul li a:hover,
+.widget_recent-posts ul li .post-title:hover,
+.widget_contact ul li i,
+.menu li a:hover,
+.menu li.active>a,
+.menu li.current-menu-ancestor>a,
+.menu li.current-menu-item>a,
+#header .search a:hover,
+#header .search a:active,
+#header .search a:focus,
+#footer a:hover,
+#footer .widget-recent-posts ul li .post-date,
+#footer-bottom a:hover,
+#footer-bottom .widget-recent-posts ul li .post-date,
+.service-box.style-1>i,
+.service-box.style-1.default>i,
+.service-box.style-1.default .service-box-content h6 a:hover,
+.service-box.style-2>i,
+.service-box.style-2.default>i,
+.service-box.style-2.default .service-box-content h6 a:hover,
+.service-box.style-3>i,
+.service-box.style-3.default>i,
+.service-box.style-3.default h6 a:hover,
+.service-box.style-4 i,
+.service-box.style-4.default i,
+.service-box.style-4.default .service-box-content h6 a:hover,
+.blog-article-author h6 {
+    color: #ff9d44;
+}
+
+.theme-tab .vc_tta-tab.vc_active a,
+.theme-tab .vc_tta-tab a:hover,
+.theme-tab .vc_tta-tab a:focus,
+.theme-tab2 .vc_tta-tab.vc_active a,
+.theme-tab2 .vc_tta-tab a:hover,
+.theme-tab2 .vc_tta-tab a:focus,
+.theme-tab3 .vc_tta-tab.vc_active a,
+.theme-tab3 .vc_tta-tab a:hover,
+.theme-tab3 .vc_tta-tab a:focus,
+a.social-media.color-default:hover {
+    color: #ff9d44 !important;
+}
+
+.alert.alert-danger,
+.arrow-list.default li:before,
+.btn-default,
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default:active:focus,
+.text-box.default,
+.panel-title.default a,
+.process-steps .step>i:after,
+.process-steps .step:hover>i,
+.process-steps.default .step>i:after,
+.process-steps.default .step:hover>i,
+.progress-bar,
+.progress-bar.default,
+.comparison-bars .progress-bar,
+.comparison-bars.default .progress-bar,
+.legend li:nth-child(1):before,
+.price-plan-header,
+.price-plan:hover,
+.price-plan:hover ul li:nth-child(odd),
+.price-plan:hover .price-plan-footer,
+.price-plan.default .price-plan-header,
+.price-plan.default:hover,
+.price-plan.default:hover ul li:nth-child(odd),
+.price-plan.default:hover .price-plan-footer,
+.testimonial:before,
+.filter li a:before,
+.filter li a:hover,
+.filter li a.active,
+.pagination li a:hover,
+.pagination li.active a,
+.pagination li.active a:hover,
+#go-top:hover,
+.tp-leftarrow.custom:hover,
+.tp-rightarrow.custom:hover,
+.owl-prev:hover,
+.owl-next:hover,
+.widget_categories ul li a:hover:before,
+.widget_archive ul li a:hover:before,
+.widget_pages ul li a:hover:before,
+.widget_meta ul li a:hover:before,
+.widget_tag_cloud a:before,
+.widget_calendar table td#today,
+.menu ul li>a:hover,
+.menu ul li.sfHover>a,
+#mobile-menu-button,
+#mobile-menu,
+#search-form-container a.search-form-close:hover,
+#page-header,
+.about-me .social-media,
+.blog-article-date,
+#commentform #submit {
+    background-color: #ff9d44;
+}
+
+.panel-title a:hover,
+.panel-title a[aria-expanded="true"],
+.theme .vc_tta-panel-title a:hover,
+.theme .vc_tta-panels-container .vc_tta-panels .vc_active .vc_tta-panel-heading .vc_tta-panel-title a,
+.theme.default .vc_tta-panel-title a,
+.theme.default .vc_tta-panel-title a:focus,
+.theme .default .vc_tta-panel-title a,
+.theme .default .vc_tta-panel-title a:focus,
+.theme.default .vc_tta-panel-title a:hover,
+.theme.default .vc_tta-panels-container .vc_tta-panels .vc_active .vc_tta-panel-heading .vc_tta-panel-title a,
+.theme .default .vc_tta-panel-title a:hover,
+.theme .vc_tta-panels-container .vc_tta-panels .default.vc_active .vc_tta-panel-heading .vc_tta-panel-title a {
+    background-color: #ff9d44 !important;
+}
+
+.service-box.style-3:after,
+.service-box.style-3.default:after {
+    border-bottom-color: #ff9d44;
+}
+
+.hr.default,
+.sf-arrows>li:hover>.sf-with-ul:after,
+.service-box.style-3:after,
+.service-box.style-3.default:after {
+    border-top-color: #ff9d44;
+}
+
+.headline:after,
+.check-list.default li:before,
+.process-steps .step>i,
+.process-steps.default .step>i,
+.filter li a:hover,
+.filter li a.active,
+.pagination li a:hover,
+.pagination li.active a,
+.pagination li.active a:hover,
+.widget_categories ul li a:before,
+.widget_archive ul li a:before,
+.widget_pages ul li a:before,
+.widget_meta ul li a:before,
+.widget_newsletter input[type="email"]:focus,
+#search-form-container a.search-form-close:hover,
+.sticky {
+    border-color: #ff9d44;
+}
+
+.service-box.style-3:before,
+.service-box.style-3.default:before {
+    border-right-color: #ff9d44;
+}
+
+.service-box.style-3:before,
+.service-box.style-3.default:before,
+.blog-article-thumbnail,
+.blog-article-date:before {
+    border-left-color: #ff9d44;
+}
+
+.portfolio-item-hover {
+    background-color: rgba(255, 157, 68, 0.9);
+}
+
+.text-blue,
+.check-list.blue li:before,
+.process-steps.blue .step>i,
+.pie-chart.blue>i,
+.comparison-bars.blue .progress-bar-title-after i,
+.comparison-bars.blue .progress-bar-title-before i,
+.counter.blue>i,
+.service-box.style-1.blue>i,
+.service-box.style-1.blue .service-box-content h6 a:hover,
+.service-box.style-2.blue>i,
+.service-box.style-2.blue .service-box-content h6 a:hover,
+.service-box.style-3.blue>i,
+.service-box.style-3.blue h6 a:hover,
+.service-box.style-4.blue i,
+.service-box.style-4.blue .service-box-content h6 a:hover {
+    color: #68d4e5;
+}
+
+.headline:before,
+.check-list.blue li:before,
+.process-steps.blue .step>i,
+.tp-bullets.custom .tp-bullet,
+.owl-page {
+    border-color: #68d4e5;
+}
+
+a.social-media.color-blue:hover {
+    color: #68d4e5 !important;
+}
+
+.alert.alert-warning,
+.arrow-list.blue li:before,
+.btn-blue,
+.btn-blue:hover,
+.btn-blue:focus,
+.btn-blue:active,
+.btn-blue:active:focus,
+.text-box.blue,
+.panel-title.blue a,
+.process-steps.blue .step>i:after,
+.process-steps.blue .step:hover>i,
+.progress-bar.blue,
+.comparison-bars.blue .progress-bar,
+.legend li:nth-child(2):before,
+.price-plan.blue .price-plan-header,
+.price-plan.blue:hover,
+.price-plan.blue:hover ul li:nth-child(odd),
+.price-plan.blue:hover .price-plan-footer,
+.tp-bullets.custom .tp-bullet:hover,
+.tp-bullets.custom .tp-bullet.selected,
+.owl-page:hover,
+.owl-page.active {
+    background-color: #68d4e5;
+}
+
+.theme.blue .vc_tta-panel-title a,
+.theme.blue .vc_tta-panel-title a:focus,
+.theme .blue .vc_tta-panel-title a,
+.theme .blue .vc_tta-panel-title a:focus,
+.theme.blue .vc_tta-panel-title a:hover,
+.theme.blue .vc_tta-panels-container .vc_tta-panels .vc_active .vc_tta-panel-heading .vc_tta-panel-title a,
+.theme .blue .vc_tta-panel-title a:hover,
+.theme .vc_tta-panels-container .vc_tta-panels .blue.vc_active .vc_tta-panel-heading .vc_tta-panel-title a {
+    background-color: #68d4e5 !important;
+}
+
+.hr.blue,
+.service-box.style-3.blue:after {
+    border-top-color: #68d4e5;
+}
+
+.service-box.style-3.blue:before {
+    border-right-color: #68d4e5;
+}
+
+.service-box.style-3.blue:before {
+    border-left-color: #68d4e5;
+}
+
+.service-box.style-3.blue:after {
+    border-bottom-color: #68d4e5;
+}
+
+.text-green,
+.check-list.green li:before,
+.process-steps.green .step>i,
+.pie-chart.green>i,
+.comparison-bars.green .progress-bar-title-after i,
+.comparison-bars.green .progress-bar-title-before i,
+.counter.green>i,
+.service-box.style-1.green>i,
+.service-box.style-1.green .service-box-content h6 a:hover,
+.service-box.style-2.green>i,
+.service-box.style-2.green .service-box-content h6 a:hover,
+.service-box.style-3.green>i,
+.service-box.style-3.green h6 a:hover,
+.service-box.style-4.green i,
+.service-box.style-4.green .service-box-content h6 a:hover {
+    color: #b5de64;
+}
+
+.check-list.green li:before,
+.process-steps.green .step>i {
+    border-color: #b5de64;
+}
+
+a.social-media.color-green:hover {
+    color: #b5de64 !important;
+}
+
+.alert.alert-success,
+.arrow-list.green li:before,
+.btn-green,
+.btn-green:hover,
+.btn-green:focus,
+.btn-green:active,
+.btn-green:active:focus,
+.text-box.green,
+.panel-title.green a,
+.process-steps.green .step>i:after,
+.process-steps.green .step:hover>i,
+.progress-bar.green,
+.comparison-bars.green .progress-bar,
+.legend li:nth-child(3):before,
+.price-plan.green .price-plan-header,
+.price-plan.green:hover,
+.price-plan.green:hover ul li:nth-child(odd),
+.price-plan.green:hover .price-plan-footer {
+    background-color: #b5de64;
+}
+
+.theme.green .vc_tta-panel-title a,
+.theme.green .vc_tta-panel-title a:focus,
+.theme .green .vc_tta-panel-title a,
+.theme .green .vc_tta-panel-title a:focus,
+.theme.green .vc_tta-panel-title a:hover,
+.theme.green .vc_tta-panels-container .vc_tta-panels .vc_active .vc_tta-panel-heading .vc_tta-panel-title a,
+.theme .green .vc_tta-panel-title a:hover,
+.theme .vc_tta-panels-container .vc_tta-panels .green.vc_active .vc_tta-panel-heading .vc_tta-panel-title a {
+    background-color: #b5de64 !important;
+}
+
+.hr.green,
+.service-box.style-3.green:after {
+    border-top-color: #b5de64;
+}
+
+.service-box.style-3.green:before {
+    border-right-color: #b5de64;
+}
+
+.service-box.style-3.green:before {
+    border-left-color: #b5de64;
+}
+
+.service-box.style-3.green:after {
+    border-bottom-color: #b5de64;
+}
+
+#footer-top,
+#footer-top a,
+#footer-top h1,
+#footer-top h2,
+#footer-top h3,
+#footer-top h4,
+#footer-top h5,
+#footer-top h6,
+#footer-top .widget_milo_contact_widget ul li i,
+#footer-top .widget-recent-posts ul li .post-date {
+    color: #d1d1d1;
+}
+
+#header {
+    max-width: 1600px;
+    width: 100%;
+}
+
+img.wp-smiley,
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
+
+.rs-background-video-layer iframe {
+    visibility: inherit !important;
+    opacity: 1 !important
+}
+
+.wpb_animate_when_almost_visible {
+    opacity: 1;
+}
