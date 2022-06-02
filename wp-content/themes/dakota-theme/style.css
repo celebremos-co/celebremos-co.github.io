@@ -87,7 +87,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 /***********************************************************************************
  *	+ TYPOGRAPHY
  ***********************************************************************************/
- 
+ :root{
+    --yellow:  #f9b233;
+    --blue:  #2952d6;
+    --red:  #d12424;
+}
+
  	body {
 		font: 14px/25px "Roboto", Arial, sans-serif;
 		letter-spacing: 0.25px;
@@ -3375,7 +3380,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
         .menu li.current-menu-ancestor > a,
         .menu li.current-menu-item > a {
 		text-decoration: none;
-		color: #fe5e3e;
+		color: var(--blue);
 	}
 	
 	.menu ul li > a:hover,

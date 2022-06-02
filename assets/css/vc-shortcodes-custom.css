@@ -19,7 +19,7 @@
     margin-bottom: 100px !important;
     padding-top: 80px !important;
     padding-bottom: 60px !important;
-    background-color: #ff9d44 !important;
+    background-color: var(--yellow) !important;
 }
 
 .vc_custom_1467712376543 {

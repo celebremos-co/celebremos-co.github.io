@@ -1,3 +1,9 @@
+:root{
+    --yellow:  #f9b233;
+    --blue:  #2952d6;
+    --red:  #d12424;
+}
+
 a,
 a:hover,
 a:focus,
@@ -14,7 +20,6 @@ a:focus,
 .counter>i,
 .counter.default>i,
 .countdown>div:after,
-.testimonial>h6,
 .widget_categories ul li a:hover,
 .widget_archive ul li a:hover,
 .widget_pages ul li a:hover,
@@ -38,14 +43,19 @@ a:focus,
 .service-box.style-2>i,
 .service-box.style-2.default>i,
 .service-box.style-2.default .service-box-content h6 a:hover,
-.service-box.style-3>i,
 .service-box.style-3.default>i,
 .service-box.style-3.default h6 a:hover,
 .service-box.style-4 i,
+.service-box.style-3>i,
 .service-box.style-4.default i,
 .service-box.style-4.default .service-box-content h6 a:hover,
 .blog-article-author h6 {
-    color: #ff9d44;
+    color: var(--blue);
+}
+
+.service-box.style-3.default>i
+{
+    color: var(--red);
 }
 
 .theme-tab .vc_tta-tab.vc_active a,
@@ -58,7 +68,7 @@ a:focus,
 .theme-tab3 .vc_tta-tab a:hover,
 .theme-tab3 .vc_tta-tab a:focus,
 a.social-media.color-default:hover {
-    color: #ff9d44 !important;
+    color: #2952d6 !important;
 }
 
 .alert.alert-danger,
@@ -87,7 +97,6 @@ a.social-media.color-default:hover {
 .price-plan.default:hover,
 .price-plan.default:hover ul li:nth-child(odd),
 .price-plan.default:hover .price-plan-footer,
-.testimonial:before,
 .filter li a:before,
 .filter li a:hover,
 .filter li a.active,
@@ -114,7 +123,16 @@ a.social-media.color-default:hover {
 .about-me .social-media,
 .blog-article-date,
 #commentform #submit {
-    background-color: #ff9d44;
+    background-color: #2952d6;
+}
+
+.testimonial:before
+{
+    background-color: var(--yellow);
+}
+
+.testimonial>h6{
+    color: var(--yellow);
 }
 
 .panel-title a:hover,
@@ -129,19 +147,19 @@ a.social-media.color-default:hover {
 .theme.default .vc_tta-panels-container .vc_tta-panels .vc_active .vc_tta-panel-heading .vc_tta-panel-title a,
 .theme .default .vc_tta-panel-title a:hover,
 .theme .vc_tta-panels-container .vc_tta-panels .default.vc_active .vc_tta-panel-heading .vc_tta-panel-title a {
-    background-color: #ff9d44 !important;
+    background-color: #d12424 !important;
 }
 
 .service-box.style-3:after,
 .service-box.style-3.default:after {
-    border-bottom-color: #ff9d44;
+    border-bottom-color: #d12424;
 }
 
 .hr.default,
 .sf-arrows>li:hover>.sf-with-ul:after,
 .service-box.style-3:after,
 .service-box.style-3.default:after {
-    border-top-color: #ff9d44;
+    border-top-color: #d12424;
 }
 
 .headline:after,
@@ -160,23 +178,23 @@ a.social-media.color-default:hover {
 .widget_newsletter input[type="email"]:focus,
 #search-form-container a.search-form-close:hover,
 .sticky {
-    border-color: #ff9d44;
+    border-color: #d12424;
 }
 
 .service-box.style-3:before,
 .service-box.style-3.default:before {
-    border-right-color: #ff9d44;
+    border-right-color: #d12424;
 }
 
 .service-box.style-3:before,
 .service-box.style-3.default:before,
 .blog-article-thumbnail,
 .blog-article-date:before {
-    border-left-color: #ff9d44;
+    border-left-color: #d12424;
 }
 
 .portfolio-item-hover {
-    background-color: rgba(255, 157, 68, 0.9);
+    background-color: var(--blue);
 }
 
 .text-blue,
@@ -202,7 +220,7 @@ a.social-media.color-default:hover {
 .process-steps.blue .step>i,
 .tp-bullets.custom .tp-bullet,
 .owl-page {
-    border-color: #68d4e5;
+    border-color: #2952d6;
 }
 
 a.social-media.color-blue:hover {
