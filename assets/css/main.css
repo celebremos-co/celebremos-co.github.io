@@ -1,0 +1,20 @@
+.headline:after{
+	 border-color: var(--red);
+}
+
+.headline:before{
+	border-color: var(--blue);
+}
+
+#page-header {
+	background-color: var(--blue);
+}
+
+ .menu ul li > a:hover,
+ .menu ul li.sfHover > a{
+ 	background-color: var(--blue);
+ }
+
+.portfolio-item-hover {
+  background-color: var(--blue);
+}

@@ -181,6 +181,12 @@ a.social-media.color-default:hover {
     border-color: #d12424;
 }
 
+.pagination li a:hover,
+.pagination li.active a,
+.pagination li.active a:hover{
+    border-color: var(--blue);
+}
+
 .service-box.style-3:before,
 .service-box.style-3.default:before {
     border-right-color: #d12424;
