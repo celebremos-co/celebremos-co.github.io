@@ -1,7 +1,9 @@
 :root{
     --yellow:  #f9b233;
     --blue:  #2952d6;
+    --blue-translucid:  #2952d6d8;
     --red:  #d12424;
+    --red-translucid:  #d12424d8;
 }
 
 a,

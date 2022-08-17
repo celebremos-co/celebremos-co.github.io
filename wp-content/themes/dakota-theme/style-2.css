@@ -328,7 +328,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
 	.headline:before {
 		margin-left: -37px;
-		border-color: #00d2ed;
+		border-color: var(--blue);
 	}
 	
 	.headline:after {
